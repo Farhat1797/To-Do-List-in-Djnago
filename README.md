@@ -2,4 +2,4 @@
 Django 
 
 
-![todo list](/public/1PNG.png)
+![todo list](/public/1PNG.PNG)
